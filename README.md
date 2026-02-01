@@ -1,5 +1,3 @@
-## Master AI Agentic Engineering -  build autonomous AI Agents
-
 ### Code and deploy AI Agents with OpenAI Agents SDK, CrewAI, LangGraph, AutoGen and MCP
 
 ![Autonomous Agent](assets/autonomy.png)
