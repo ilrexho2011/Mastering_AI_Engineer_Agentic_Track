@@ -2,10 +2,6 @@
 
 ![Autonomous Agent](assets/autonomy.png)
 
-Perhaps famous last words: but I really, truly hope that I've put together an environment that will be not too horrific to set up!
-
-Any problems, please do contact me.
-
 ### Important notes for CrewAI
 
 Windows PC users: you will need to have checked the "gotcha #4" at the top of the [SETUP-PC](setup/SETUP-PC.md) instructions -- installing Microsoft Build Tools.  
