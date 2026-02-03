@@ -1,6 +1,6 @@
 ### Code and deploy AI Agents with OpenAI Agents SDK, CrewAI, LangGraph, AutoGen and MCP
 
-![Autonomous Agent](assets/autonomy.png)
+![Autonomous Agent](assets/ai_agent.jpeg)
 
 ### Important notes for CrewAI
 
