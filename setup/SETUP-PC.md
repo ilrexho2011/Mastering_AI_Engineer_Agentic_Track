@@ -190,7 +190,3 @@ After you click "Select Kernel", if there is no option like `.venv (Python 3.12.
 2. In the Settings search bar, type "venv"  
 3. In the field "Path to folder with a list of Virtual Environments" put the path to the project root, like C:\Users\username\projects\agents
 And then try again.
-
-If you have any problems, I've included a Guide called [troubleshooting.ipynb](troubleshooting.ipynb) to figure it out.
-
-Please do message me or email me at ed@edwarddonner.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
