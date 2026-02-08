@@ -1,0 +1,5 @@
+My name is Ilirjan Rexho. I am a technically driven integration professional specializing in SAP Integration Suite, with deep hands-on experience in SAP Cloud Integration (CPI). I design and implement end-to-end integration flows involving SAP S/4HANA, on-premise systems, and cloud applications using HTTPS, SFTP, OData, JDBC, and IDoc-based integrations.
+
+My expertise includes complex message mappings (XML/JSON), Groovy scripting for data transformation, validation, deduplication, and error handling, as well as building resilient integrations with retries, exception subprocesses, and monitoring strategies. I work according to integration architecture best practices, focusing on performance, scalability, and maintainability.
+
+In addition, I actively explore automation and AI-assisted solutions, integrating external APIs and intelligent services to enhance monitoring, error analysis, and operational efficiency. I strongly believe in continuous learning and see professional growth as an ongoing loop between building, improving, and innovating.
